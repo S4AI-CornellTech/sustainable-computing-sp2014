@@ -1,1 +1,1 @@
-# sustainable-computing-sp2014
+# ECE 6960: Sustainable Computing (Spring 2014)
