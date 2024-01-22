@@ -28,32 +28,39 @@ environmental impact of computing and designing sustainable platforms.
 
 ## Schedule
 
-| Date   | Day | Topic                                           | Due | Link              |
+| Date   | Day | Topic                                           | Due                   | Link                                                                                                                               |
 | ------ | --- | -------------------------------------           |
-| Jan 23 | Tu  | Introduction to Sustainable Computing           |     | [[Coming soon]()] |
-| Jan 25 | Th  | Trends in computer architecture                 |     | [[Coming soon]()] |
-| Jan 30 | Tu  | Mobile SoC                                      |     | [[Coming soon]()] |
-| Feb 1  | Th  | Datacenter architecture I                       |     | [[Coming soon]()] |
-| Feb 6  | Tu  | Datacenter architecture II                      |     | [[Coming soon]()] |
-| Feb 8  | Th  | Energy systems                                  |     | [[Coming soon]()] |
-| Feb 13 | Tu  | Life cycle analysis of computer architecture    |     | [[Coming soon]()] |
-| Feb 15 | Th  | Models for assessing carbon footprint of IC's   |     | [[Coming soon]()] |
-| Feb 20 | Tu  |                                                 |     | [[Coming soon]()] |
-| Feb 22 | Th  | Guest speaker! LCA's and materials              |     | [[Coming soon]()] |
-| Feb 27 | Tu  | No class!                                       |     | [[Coming soon]()] |
-| Feb 29 | Th  | Project proposal presentations                  |     | [[Coming soon]()] |
-| Mar 5  | Tu  | Guest speaker! Intermittent Computing           |     | [[Coming soon]()] |
-| Mar 7  | Th  | Recylcing electronics                           |     | [[Coming soon]()] |
-| Mar 12 | Tu  | Metrics of sustainability                       |     | [[Coming soon]()] |
-| Mar 14 | Th  | Data center: renewable energy workload shifting |     | [[Coming soon]()] |
-| Mar 19 | Tu  | Data center: integration with power grid        |     | [[Coming soon]()] |
-| Mar 21 | Th  | Data center: power capping                      |     | [[Coming soon]()] |
-| Mar 26 | Tu  | Data center: power management                   |     | [[Coming soon]()] |
-| Mar 28 | Th  | Project update presentations                    |     | [[Coming soon]()] |
-| Apr 2  | Tu  | No class! (Spring break)                        |     | [[Coming soon]()] |
-| Apr 4  | Th  | No class! (Spring break)                        |     | [[Coming soon]()] |
-| Apr 9  | Tu  | Life cycle of AI                                |     | [[Coming soon]()] |
-| Apr 11 | Th  | Sustainable AI                                  |     | [[Coming soon]()] |
+| Jan 23 | Tu  | Introduction to Sustainable Computing           |                       | [[Coming soon]()]                                                                                                                  |
+| Jan 25 | Th  | Trends in computer architecture                 |                       | [[Coming soon]()]                                                                                                                  |
+| Jan 30 | Tu  | Mobile SoC                                      |                       | [[Coming soon]()]                                                                                                                  |
+| Feb 1  | Th  | Datacenter architecture I                       |                       | [[Synthesis Lecture](https://link.springer.com/book/10.1007/978-3-031-01761-2)]                                                    |
+| Feb 6  | Tu  | Datacenter architecture II                      |                       | [[Synthesis Lecture](https://link.springer.com/book/10.1007/978-3-031-01761-2)]                                                    |
+| Feb 8  | Th  | Energy systems                                  |                       | [[Coming soon]()]                                                                                                                  |
+| Feb 13 | Tu  | Life cycle analysis of computer architecture    |                       | [[Chasing Carbon](https://arxiv.org/abs/2011.02839)]                                                                               |
+| Feb 15 | Th  | Models for assessing carbon footprint of IC's   |                       | [[ACT](https://ugupta.com/files/Gupta_ISCA2022_ACT.pdf)]                                                                           |
+| Feb 20 | Tu  |                                                 |                       | [[Coming soon]()]                                                                                                                  |
+| Feb 22 | Th  | Guest speaker! LCA's and materials              |                       | [[Coming soon]()]                                                                                                                  |
+| Feb 27 | Tu  | No class!                                       |                       |                                                                                                                                    |
+| Feb 29 | Th  | Student presentations                           | Project proposals     |                                                                                                                                    |
+| Mar 5  | Tu  | Guest speaker! Intermittent Computing           |                       | [[Coming soon]()]                                                                                                                  |
+| Mar 7  | Th  | Recylcing electronics                           |                       | [[Junkyard Computing](https://arxiv.org/pdf/2110.06870.pdf)], [[Tale of Two Mice](https://dl.acm.org/doi/10.1145/3491101.3519823)] |
+| Mar 12 | Tu  | Metrics of sustainability                       |                       | [[Coming soon]()]                                                                                                                  |
+| Mar 14 | Th  | Data center: renewable energy workload shifting |                       | [[Coming soon]()]                                                                                                                  |
+| Mar 19 | Tu  | Data center: integration with power grid        |                       | [[Coming soon]()]                                                                                                                  |
+| Mar 21 | Th  | Data center: power capping                      |                       | [[Coming soon]()]                                                                                                                  |
+| Mar 26 | Tu  | Data center: power management                   |                       | [[Coming soon]()]                                                                                                                  |
+| Mar 28 | Th  | Student presentations                           | Project update I      |                                                                                                                                    |
+| Apr 2  | Tu  | No class! (Spring break)                        |                       |                                                                                                                                    |
+| Apr 4  | Th  | No class! (Spring break)                        |                       |                                                                                                                                    |
+| Apr 9  | Tu  | Life cycle of AI                                |                       | [[Coming soon]()]                                                                                                                  |
+| Apr 11 | Th  | Sustainable AI                                  |                       | [[Coming soon]()]                                                                                                                  |
+| Apr 16 | Tu  | Memory and data storage                         |                       | [[Coming soon]()]                                                                                                                  |
+| Apr 18 | Th  | Student presentations                           | Project update II     |                                                                                                                                    |
+| Apr 23 | Tu  | Technology trends (3D integration, chiplet)     |                       | [[Coming soon]()]                                                                                                                  |
+| Apr 25 | Th  |                                                 | Draft of final papers | [[Coming soon]()]                                                                                                                  |
+| Apr 30 | Tu  |                                                 |                       | [[Coming soon]()]                                                                                                                  |
+| May 2  | Th  |                                                 |                       | [[Coming soon]()]                                                                                                                  |
+| May 7  | Tu  | Final project presentations                     | Final papers          |                                                                                                                                    |
 
 
 ## Guest speakers
