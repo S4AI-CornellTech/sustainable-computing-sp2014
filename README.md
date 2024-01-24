@@ -30,7 +30,7 @@ environmental impact of computing and designing sustainable platforms.
 
 | Date   | Day | Topic                                           | Due                   | Link                                                                                                                               |
 | ------ | --- | -------------------------------------           |
-| Jan 23 | Tu  | Introduction to Sustainable Computing           |                       | [[Coming soon]()]                                                                                                                  |
+| Jan 23 | Tu  | [Introduction to Sustainable Computing](https://docs.google.com/presentation/d/1erX_Li0hHH-uaNQqu92tOMePjGrN90tv/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)           |                       | [[Coming soon]()]                                                                                                                  |
 | Jan 25 | Th  | Trends in computer architecture                 |                       | [[Coming soon]()]                                                                                                                  |
 | Jan 30 | Tu  | Mobile SoC                                      |                       | [[Coming soon]()]                                                                                                                  |
 | Feb 1  | Th  | Datacenter architecture I                       |                       | [[Synthesis Lecture](https://link.springer.com/book/10.1007/978-3-031-01761-2)]                                                    |
